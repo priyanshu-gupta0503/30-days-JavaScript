@@ -36,15 +36,6 @@
 # use loop control statement ( break and continue) to control the flow of loops
 
 
-# Day 04 : Loop
-
-# understand and use for Loos to iternate over a sequence of numbers 
-# utilize while loop for iteration based on a condition 
-# apply do..while loop to ensute the loop body is execute at least once
-# Implement nested loops to sove more complex problem
-# use loop control statement ( break and continue) to control the flow of loops
-
-
 # Day 05 : Function
 
 # understand and define Function using Function declaration expression and arrow Function 
@@ -52,3 +43,25 @@
 # create and utilize high order Function
 # apply Function to solve common problems and perform calculation
 # enhance code reusabillty and organization using Function
+
+# Day 06 : Arrays
+
+# 1 D array 
+# 2 D array
+# map,filter,reduce
+
+
+# Day 07 : Objects
+
+# Object declaration and print
+# Object.keys and Values
+# looping in Objects
+# nested objects
+
+# Day 08: Es6
+
+# Destructuring
+# Spread and Rest operrator
+# temp literal
+# object literal
+
